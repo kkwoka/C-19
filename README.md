@@ -6,6 +6,8 @@
 
 As a physician I would like easy access to COVID-19 patient results across the country to ensure accurate tracking and reporting of tested patients.
 
+## DEPLOYMENT LINK
+
 <br>
 
 ## TABLE OF CONTENTS
@@ -14,8 +16,11 @@ As a physician I would like easy access to COVID-19 patient results across the c
 2. [INSTALLATION](#installation)
 3. [CONTRIBUTIONS](#contributions)
 4. [PREVIEW](#preview)
-4. [RESOURCES](#resources)
-5. [BADGES](#badges)
+5. [RESOURCES](#resources)
+6. [BADGES](#badges)
+7. [QUESTIONS](#QUESTIONS)
+
+
 
 <br>
 
@@ -88,10 +93,10 @@ Kendra Kwoka
 
 Leandra Turner
 
-Arman Taghehchian
+<br>
 
 
-### PREVIEW
+## PREVIEW
 
 ![covidPic](./src/assets/preview.png)
 
@@ -103,7 +108,6 @@ Arman Taghehchian
 
 www.tailorbrands.com
 
-<br>
 
 *COVID-19 Background*
 
@@ -111,11 +115,11 @@ www.kctv5.com
 
 <br>
 
-### BADGES
 
+## QUESTIONS
+​
+<img src="https://avatars3.githubusercontent.com/u/57764303?v=4" alt="avatar" style="border-radius: 16px" width="30" />
+​
+If you have any questions about the repo, contact [kkwoka](https://github.com/kkwoka).
 
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://fast-wildwood-12677.herokuapp.com/)
-
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 
