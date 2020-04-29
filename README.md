@@ -7,7 +7,9 @@
 As a physician I would like easy access to COVID-19 patient results across the country to ensure accurate tracking and reporting of tested patients.
 
 ## DEPLOYMENT LINK
+Github: https://github.com/kkwoka/C-19
 
+Heroku: https://secret-spire-45995.herokuapp.com/
 <br>
 
 ## TABLE OF CONTENTS
@@ -22,32 +24,22 @@ As a physician I would like easy access to COVID-19 patient results across the c
 
 
 
-<br>
 
 ## FEATURES
 
 1. Users are able to login to patient database by providing their email and password.
-    * Or users can signup for access
+    * Or users can sign up for access
 
 2. Users can search for existing patients or add a new one with the following information:
-
-    a. Id #
-
-    b. Patient fist and last name
-
-    c.  Phone no.
-
-    d. City
-
-    e. Symptoms
-    
-    f. Infection status
-
-    g. Treatment
-
-    h. Admission status
-
-    i. Doctor
+    * Id #
+    * Patient fist and last name
+    *  Phone no.
+    * City
+    * Symptoms
+    * Infection status
+    * Treatment
+    * Admission status
+    * Doctor
 
 3. If a specific patient needs to be removed, a button is available to do so.
 
@@ -59,25 +51,16 @@ As a physician I would like easy access to COVID-19 patient results across the c
 
 1. To use the application, install (npm install) the following dependencies:
 
-    a. **bycryptjs:** Allows passwords to be hashed
-
-    b.  **bootstrap-vue:** Front-end framework works with Vue.js
-
-    c.  **core-js:** Modular standard library for JavaScript
-
-    d.  **express:** Node.js framework
-    
-    e.  **express-handlebars:** Allows server-side manipulation of HTML ("templating engine")
-
-    f. **mysql2:** Used with sequelize; allows access to MySQL database.
-
-    g. **routes:** Translates each incoming HTTP request to an action call (static, public method in controller class)
-
-    h.  **sequelize:** ORM designed for Node; allows for handling complex SQL database queries with JavaScript methods
-
-    i.  **vue:** A progressive javascript framework for building user interfaces
-
-    j. **vue-router:** Allows users to switch between pages without refreshing.
+    * **bycryptjs:** Allows passwords to be hashed
+    *  **bootstrap-vue:** Front-end framework works with Vue.js
+    *  **core-js:** Modular standard library for JavaScript
+    *  **express:** Node.js framework
+    *  **express-handlebars:** Allows server-side manipulation of HTML ("templating engine")
+    * **mysql2:** Used with sequelize; allows access to MySQL database.
+    * **routes:** Translates each incoming HTTP request to an action call (static, public method in controller class)
+    *  **sequelize:** ORM designed for Node; allows for handling complex SQL database queries with JavaScript methods
+    *  **vue:** A progressive javascript framework for building user interfaces
+    * **vue-router:** Allows users to switch between pages without refreshing.
 
 2. Users will need to install mySQL in order to create a database.
 
