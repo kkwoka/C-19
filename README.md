@@ -76,6 +76,8 @@ Kendra Kwoka
 
 Leandra Turner
 
+* To View Contributions From Every member: https://github.com/grantkyle/Project_2 
+
 <br>
 
 
