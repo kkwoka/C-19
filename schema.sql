@@ -1,5 +1,1 @@
-drop database if exists healthcare_portal;
-
-create database healthcare_portal;
-
-use healthcare_portal;
+use x86etl4i7lkxqi00;
